@@ -20,9 +20,9 @@ Under construction :construction:
 
 📊 Computer Science Professor - IFMG (08/2019 - 12.2019)
 
-📊  Information Science Professor - UFMG (10/2016 - 12/2016; 04/2017 - 06/2017; 12/2020 - 09/2021)
+📊  Information Science Professor - UFMG (2016; 2017; 2020; 2021)
 
-📊 Software Developer - Sisloc Softwares (10.2011 - 02.2014)
+📊 Software Developer - Sisloc Softwares (10/2011 - 02/2014)
   
 ## Education
 
@@ -47,14 +47,10 @@ Under construction :construction:
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=guilhermenoronha&bg_color=ffffff&color=0969da&line=06b6d4&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-##
-
 <div align="center">
   <a href="https://github.com/guilhermenoronha">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermenoronha&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermenoronha&layout=compact&langs_count=8&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermenoronha&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermenoronha&layout=compact&langs_count=8&theme=buefy"/>
 </div>
 
 ##
