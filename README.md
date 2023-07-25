@@ -57,15 +57,18 @@ Under construction :construction:
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=guilhermenoronha)
 
 ### Tools
-#### Programming Languages
+#### Languages
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp; 
+<a href="https://www.iso.org/standard/76583.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="70" height="40"/> &nbsp; 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 #### Databases
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp; 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp; 
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/> </a> &nbsp; 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 #### Frameworks
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/airflow-2.svg" alt="mongodb" width="40" height="40"/>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.element61.be/sites/default/files/img_knowledge_base/airflow.png" alt="airflow" width="40" height="40"/> &nbsp;
+<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/>
 #### Packages
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> &nbsp; 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> &nbsp; 
