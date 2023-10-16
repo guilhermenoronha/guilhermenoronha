@@ -2,8 +2,6 @@
 
 # It's me, Guilherme Noronha
 
-Under construction :construction:
-
 <div style="text-align:center">
   <h3> Data Engineer | Python Developer</h3>
 <div/>
@@ -49,8 +47,8 @@ Under construction :construction:
 
 <div align="center">
   <a href="https://github.com/guilhermenoronha">
-  <img height="150em" src="https://github-readme-stats-eta-sable.vercel.app/api?username=guilhermenoronha&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eta-sable.vercel.app/api/top-langs/?username=guilhermenoronha&layout=compact&langs_count=8&theme=buefy"/>
+  <img decoding="async" loading="lazy" height="150em" src="https://github-readme-stats-eta-sable.vercel.app/api?username=guilhermenoronha&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img decoding="async" loading="lazy" height="150em" src="https://github-readme-stats-eta-sable.vercel.app/api/top-langs/?username=guilhermenoronha&layout=compact&langs_count=8&theme=buefy"/>
 </div>
 
 ##
