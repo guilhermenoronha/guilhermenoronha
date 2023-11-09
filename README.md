@@ -32,6 +32,8 @@
 
 ## Publications
 
+:page_with_curl: [PROCESSAMENTO DE LINGUAGEM NATURAL PARA ANÁLISE DE SENTIMENTO UTILIZANDO PYTHON - Tecnologias utilizadas em pesquisas acadêmicas em Ciências Sociais Aplicadas](https://labcotec.ibict.br/omp/index.php/edibict/catalog/view/312/343/1999)
+
 :page_with_curl: [ENSINO SUPERIOR DURANTE A PANDEMIA: UMA EXPERIÊNCIA DOCENTE EM SISTEMAS DE RECUPERAÇÃO DA INFORMAÇÃO - Informação & Informação](https://ojs.uel.br/revistas/uel/index.php/informacao/article/view/45035/48315)  
 
 :page_with_curl: [Representação lógica do conhecimento para ontologias - Fronteiras da Representação do Conhecimento](https://periodicos.ufmg.br/index.php/fronteiras-rc/issue/view/1703)  
