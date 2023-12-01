@@ -12,11 +12,11 @@
   
 ## Career
   
-📊 Data Engineer - Five Acts (08/2022 - Ongoing)  
+📊 Data Engineer - Five Acts (07/2022 - 12/2023)  
 
-📊 Data Engineer Professor - IGTI (12/2020 - 11.2022)  
+📊 Data Engineer Professor - IGTI (12/2020 - 11/2022)  
 
-📊 Computer Science Professor - IFMG (08/2019 - 12.2019)
+📊 Computer Science Professor - IFMG (08/2019 - 12/2019)
 
 📊  Information Science Professor - UFMG (2016; 2017; 2020; 2021)
 
